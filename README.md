@@ -1,4 +1,3 @@
-```markdown
 # Password Generator
 
 Generate strong and random passwords with this simple Python script.
@@ -57,11 +56,11 @@ Before you begin, ensure you have met the following requirements:
 
 2. Follow the on-screen prompts to specify your password preferences:
    - Enter the desired password length.
-   - Choose whether to include uppercase letters, lowercase letters, numbers, and special characters.
+   - Choose whether to include uppercase, lowercase, numbers, and special characters.
 
 3. The script will generate a random password based on your preferences and display it on the screen.
 
-4. Optionally, you can choose to copy the generated password to the clipboard for easy pasting into websites or applications.
+4. Optionally, you can copy the generated password to the clipboard for easy pasting into websites or applications.
 
 ## Contributing
 
