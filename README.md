@@ -35,10 +35,10 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository to your local machine: Make sure to replace `"yourusername"` in the GitHub clone URL
+1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/akhila-kudrethaya/password-generator.git
    ```
 
 2. Change to the project directory:
