@@ -1,7 +1,3 @@
-# password-generator
-Python script that generates random passwords of varying lengths and complexities based on user input. Users should be able to specify the length of the password and whether it should include uppercase letters, lowercase letters, numbers, and special characters.
-
-
 ```markdown
 # Password Generator
 
@@ -20,7 +16,7 @@ Generate strong and random passwords with this simple Python script.
 
 ## Introduction
 
-The Password Generator is a Python script that allows you to generate random passwords of varying lengths and complexities based on your preferences. It's a useful tool for creating secure passwords for your online accounts, enhancing your digital security.
+The Password Generator is a Python script (`main.py`) that allows you to generate random passwords of varying lengths and complexities based on your preferences. It's a useful tool for creating secure passwords for your online accounts, enhancing your digital security.
 
 ## Features
 
@@ -39,7 +35,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-1. Clone the repository to your local machine: Make sure to replace `"yourusername"` in the GitHub clone URL with your actual GitHub username
+1. Clone the repository to your local machine: Make sure to replace `"yourusername"` in the GitHub clone URL
 
    ```bash
    git clone https://github.com/yourusername/password-generator.git
@@ -53,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Usage
 
-1. Run the script using Python:
+1. Run the script (`main.py`) using Python:
 
    ```bash
    python main.py
@@ -61,11 +57,11 @@ Before you begin, ensure you have met the following requirements:
 
 2. Follow the on-screen prompts to specify your password preferences:
    - Enter the desired password length.
-   - Choose whether to include uppercase, lowercase, numbers, and special characters.
+   - Choose whether to include uppercase letters, lowercase letters, numbers, and special characters.
 
 3. The script will generate a random password based on your preferences and display it on the screen.
 
-4. Optionally, you can copy the generated password to the clipboard for easy pasting into websites or applications.
+4. Optionally, you can choose to copy the generated password to the clipboard for easy pasting into websites or applications.
 
 ## Contributing
 
@@ -75,4 +71,3 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
