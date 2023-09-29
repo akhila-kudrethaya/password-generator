@@ -49,7 +49,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Usage
 
-1. Run the script (`main.py`) using Python:
+1. Run the script [main.py](/main.py) using Python:
 
    ```bash
    python main.py
